@@ -37,8 +37,8 @@
 - les oiseaux
 
 ## objectifs que vous souhaitez atteindre en tant que développeur pendant Becode
-- me professionnalisé
-- apprendre de nouvelles chôses
+- me professionnaliser
+- apprendre de nouvelles choses
 - évoluer
 
 ## Les peurs
@@ -46,10 +46,10 @@
 - ne pas être à la hauteur
 
 ## choses que vous attendez avec impatience
-- travailler dans le domaine du developpement web
+- travailler dans le domaine du développement web
 - Stabilité 
 
 ## trois choses que vous appréciez le plus dans le travail en équipe
-- échanges d'idée
+- échanges d'idées
 - moment de rigolade
 - la réussite d'un projet ensemble
