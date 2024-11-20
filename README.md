@@ -6,10 +6,7 @@
 ```
 
 
-- html
-- css
-- JavaScript
-- php
+
 
 >“Algorithme : Mot utilisé par les programmeurs quand ils ne veulent pas expliquer ce qu’ils ont fait.”
 
