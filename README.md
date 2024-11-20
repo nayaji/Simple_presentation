@@ -53,7 +53,3 @@
 - échanges d'idée
 - moment de rigolade
 - la réussite d'un projet ensemble
-
-# simple_presentation
-# simple_presentation
-# simple_presentation
